@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miftahulhidayati
-- 👀 I’m interested in PHP UIUX
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on project
 - 📫 Reach me on miftahulhdyt@outlook.com
