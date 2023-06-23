@@ -32,8 +32,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=miftahulhidayati&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftahulhidayati&hide=TeX&layout=compact&theme=buefy)
 
 <!---
 miftahulhidayati/miftahulhidayati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
